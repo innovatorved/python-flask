@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Jinja Dynamic template</title>
+	</head>
+	<body>
+		<table style="width:100%; text-align:center">
+			<tr>
+				<th>Index</th>
+				<th>Column</th>
+				<th>Details</th>
+			</tr>
+			{% for x , y in data.items() %}
+			<tr>
+				<td>{{loop.index}}</td>
+				<td>{{x}}</td>
+				<td>{{y}}</td>
+			</tr>
+			{% endfor %}
+
+		</table>
+	</body>
+</html>

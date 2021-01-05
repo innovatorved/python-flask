@@ -1,0 +1,7 @@
+Delimiters #
+Before we get started, let’s explore some delimiters used in Jinja Syntax.
+
+{% ... %} is used for statements.
+{{ ... }} is used for variables.
+{# ... #} is used for comments.
+# ... ## is used for line statements.

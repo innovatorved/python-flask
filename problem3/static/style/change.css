@@ -1,0 +1,15 @@
+#title {
+    padding: 10px;
+    color: green;
+}
+body {
+    background: #95A5A6 ;
+}
+table {
+    width: 100%;
+    text-align: center;
+}
+th, td {
+    padding: 8px;
+    border-bottom: 1px solid #ddd;
+}
