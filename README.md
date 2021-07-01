@@ -1,6 +1,8 @@
-
-
 # Python Flask
+<p align="center">
+  <img src="https://github.com/innovatorved/python-flask/blob/master/image.png?raw=true" alt="Sublime's custom image"/>
+</p>
+
 
 Flask is an API of Python that allows us to build up web-applications. Flask is a good choice if you want a lightweight code base. 
 
