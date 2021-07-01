@@ -1,6 +1,6 @@
 # Python Flask
 <p align="center">
-  <img src="https://github.com/innovatorved/python-flask/blob/master/image.png?raw=true" alt="Sublime's custom image"/>
+  <img src="https://github.com/innovatorved/python-flask/blob/master/image.png?raw=true" alt="flask image"/>
 </p>
 
 
